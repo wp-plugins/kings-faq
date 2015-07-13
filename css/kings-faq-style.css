@@ -2,11 +2,10 @@
 
 #kingsrrf_faq {width: 100%;text-align: center;max-width: 100%;}
 #kingsrrf_faq dt {background: #ccc;padding: 15px;font-weight: bold;cursor: pointer;border-bottom: 1px solid #aaa;border-top: 1px solid #eee;}
-#kingsrrf_faq dd {padding: 15px;}
+#kingsrrf_faq dd {padding: 15px;display: none;}
 
 #kingsrrf_faq dt:first-child {border-top:0px solid;}
 
 #kingsrrf_faq dt:nth-last-child(2) {border-bottom:0px solid;}
 
-.displaynone {display: none;}
 .displayblock {display: block;}

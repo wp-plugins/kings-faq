@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/plugins/kings-faq
 Description: This plugin will add an FAQ section in your WordPress site. 
 Author: Saif Bin-Alam
 Author URI: http://wordpresstalks.com
-Version: 1.0
+Version: 1.1
 */
 
 

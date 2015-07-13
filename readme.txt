@@ -62,3 +62,7 @@ Yes, you can easily add multiple FAQ sections. Simply use the shortcode again to
 = 1.0 =
 
 Released the plugin.
+
+= 1.1 =
+
+Edited the way the plugin worked. It works basically the same way in the user side. But I have optimized the codes a bit in this version. You may upgrade without worrying about anything. 
